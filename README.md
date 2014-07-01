@@ -1,6 +1,6 @@
 # ZooKeeper Visualization
 
-Recursively retrieves nodes from ZooKeeper and show them on a tree chart. A product of m3dev's [Distribution Systems Tour #1](https://github.com/m3dev/distrib-systems-tour/tree/master/01-zookeeper).
+Recursively retrieves nodes from ZooKeeper and show them on a tree chart. A product of m3dev's [Distribution Systems Tour #1](https://github.com/m3dev/distrib-systems-tour/tree/master/01-zookeeper) hands-on session.
 
 ![ZooKeeper Visualization](screenshot.png)
 
